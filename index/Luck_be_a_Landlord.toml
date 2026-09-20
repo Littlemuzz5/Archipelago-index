@@ -1,0 +1,7 @@
+name = "Luck be a Landlord"
+home = "https://discord.com/channels/731205301247803413/1332115793407643830
+
+default_url = "https://github.com/Littlemuzz5/Luck-Be-a-Landlord-AP/releases/download/{{version}}/Luck_be_a_Landlord.apworld"
+
+[versions]
+"1.0.0" = { url = "https://github.com/Littlemuzz5/Luck-Be-a-Landlord-AP/releases/download/Updated_Beta_1/Luck_be_a_Landlord.apworld" }
